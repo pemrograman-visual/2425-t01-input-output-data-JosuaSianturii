@@ -1,5 +1,6 @@
 // 12S24035_JOSUA SIANTURI
 // 12S24058_AIRENE SITUMORANG
+
 import java.util.*;
 import java.lang.Math;
 
