@@ -24,14 +24,14 @@ Ucok kemudian menambahkan beberapa properti lagi untuk melengkapi:
 
 ## Input-Output Simulation (T01)
 
-Tugas berikutnya, kembangkan sebuah solusi sederhana yang secara berturut-turut akan membaca kesepuluh properti buku. Setiap properti baca dalam satu baris masukan. Selanjutnya, tampilkan semua nilai properti yang telah dimasukkan dalam satu baris keluaran. Antara properti yang satu dengan properti lainnya dipisahkan dengan tanda pipe ```|```. Perhatikan dua contoh berikut.
+Tugas berikutnya, kembangkan sebuah solusi sederhana yang secara berturutp prope-turut akan membaca kesepuluh properti buku. Setiarti baca dalam satu baris masukan. Selanjutnya, tampilkan semua nilai properti yang telah dimasukkan dalam satu baris keluaran. Antara properti yang satu dengan properti lainnya dipisahkan dengan tanda pipe ```|```. Perhatikan dua contoh berikut.
 
 ### Example 1
 
 **Input**:
 ```bash
 978-0201498400
-Data Structures and Algorithm Analysis in C
+
 Mark Allen Weiss
 1996
 Pearson
