@@ -22,13 +22,13 @@ public class T01 {
         isbn = input.nextLine();
         judul = input.nextLine();
         penulis = input.nextLine();
-        tahun = input.nextInt();
+        tahun = Integer.parseInt(input.nextLine());
         penerbit = input.nextLine();
         formatbuku = input.nextLine();
-        harga = input.nextDouble();
-        margin = input.nextDouble();
-        stok = input.nextInt();
-        rating = input.nextDouble();
+        harga = Double.parseDouble(input.nextLine());
+        margin = Double.parseDouble(input.nextLine());
+        stok = Integer.parseInt(input.nextLine());
+        rating = Double.parseDouble(input.nextLine());
         System.out.println(isbn + "|" + judul + "|" + penulis + "|" + tahun + "|" + penerbit + "|" + formatbuku + "|" + harga + "|" + margin + "|" + stok + "|" + rating);
     }
 }
